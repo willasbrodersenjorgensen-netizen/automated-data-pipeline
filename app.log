@@ -1,0 +1,36 @@
+2026-06-03 09:04:19,367 - INFO - Starting the script
+2026-06-03 09:04:19,367 - ERROR - Der opstod en fejl: 'module' object is not callable
+Traceback (most recent call last):
+  File "c:\Users\mormo\Desktop\Excel_sync_project\main.py", line 23, in <module>
+    logging(f"læser filen: {csv_fil}")
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable
+2026-06-03 09:04:58,811 - INFO - Starting the script
+2026-06-03 09:04:58,811 - ERROR - Der opstod en fejl: 'module' object is not callable
+Traceback (most recent call last):
+  File "c:\Users\mormo\Desktop\Excel_sync_project\main.py", line 23, in <module>
+    logging(f"læser filen: {csv_fil}")
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable
+2026-06-03 09:05:14,962 - INFO - Starting the script
+2026-06-03 09:05:14,962 - ERROR - Der opstod en fejl: 'module' object is not callable
+Traceback (most recent call last):
+  File "c:\Users\mormo\Desktop\Excel_sync_project\main.py", line 23, in <module>
+    logging(f"læser filen: {csv_fil}")
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: 'module' object is not callable
+2026-06-03 09:07:03,878 - INFO - Starting the script
+2026-06-03 09:07:03,878 - INFO - læser filen: produkter.csv
+2026-06-03 09:07:03,880 - INFO - Forbinder til google sheets
+2026-06-03 09:07:05,340 - INFO - Rydder arket
+2026-06-03 09:07:06,190 - INFO - Uploader data til Google Sheets (række 3 og ned)...
+2026-06-03 09:08:11,280 - INFO - Starting the script
+2026-06-03 09:08:11,280 - INFO - læser filen: produkter.csv
+2026-06-03 09:08:11,282 - INFO - Forbinder til google sheets
+2026-06-03 09:08:13,135 - INFO - Rydder arket
+2026-06-03 09:08:13,444 - INFO - Uploader data til Google Sheets (række 3 og ned)...
+2026-06-03 09:09:21,380 - INFO - Starting the script
+2026-06-03 09:09:21,380 - INFO - læser filen: produkter.csv
+2026-06-03 09:09:21,382 - INFO - Forbinder til google sheets
+2026-06-03 09:09:23,382 - INFO - Rydder arket
+2026-06-03 09:09:23,792 - INFO - Uploader data til Google Sheets (række 3 og ned)...
